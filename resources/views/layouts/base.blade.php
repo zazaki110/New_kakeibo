@@ -18,6 +18,7 @@
 
 
 <body>
+@csrf
 <h1>@yield('h1')</h1>
 
 @yield('データ一覧')

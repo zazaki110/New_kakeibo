@@ -6,7 +6,7 @@
     <title>ホーム画面</title>
 </head>
 <body>
-    
+@csrf
 </body>
 
 
